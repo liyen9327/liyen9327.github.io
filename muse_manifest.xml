@@ -1,24 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fishslife.com" resolutions="1x,2x" timestamp="1611079420041">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fishslife.com" resolutions="1x,2x" timestamp="1611080008147">
   <folder name="assets">
     <file name="大總評簡報.pdf" crc="3777552553" seo="true" mt="1610181397000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3776078755" ref="index"/>
-    <file name="__1.css" crc="3953469138" ref="首頁"/>
-    <file name="__.css" crc="326757000" ref="動畫"/>
     <file name="character-design.css" crc="4264918583" ref="character-design"/>
     <file name="poster.css" crc="3944839402" ref="poster"/>
+    <file name="animation.css" crc="3795289356" ref="animation"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="首頁:index:動畫:character-design:poster"/>
-    <file name="museutils.js" crc="340535759" ref="首頁:index:動畫:character-design:poster"/>
-    <file name="whatinput.js" crc="86476730" ref="首頁:index:動畫:character-design:poster"/>
-    <file name="museconfig.js" crc="4286661555" ref="首頁:index:動畫:character-design:poster"/>
-    <file name="jquery.watch.js" crc="51536988" ref="首頁:index:動畫:character-design:poster"/>
-    <file name="require.js" crc="7928878" ref="首頁:index:動畫:character-design:poster"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:動畫"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:動畫"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:character-design:poster:animation"/>
+    <file name="museutils.js" crc="340535759" ref="index:character-design:poster:animation"/>
+    <file name="whatinput.js" crc="86476730" ref="index:character-design:poster:animation"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:character-design:poster:animation"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:character-design:poster:animation"/>
+    <file name="require.js" crc="7928878" ref="index:character-design:poster:animation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:animation"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:animation"/>
   </folder>
   <folder name="images">
     <file name="sea.jpg" crc="4185806353" ref="index">
@@ -30,8 +29,9 @@
     <file name="魚生字體_2x.png" crc="415202712" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="post3.jpg" crc="3894509781" ref="動畫">
+    <file name="post3.jpg" crc="3894509781" ref="animation">
       <caption webpage="動畫" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="大總評簡報-03.jpg" crc="4249496337" seo="true" ref="character-design">
       <caption webpage="character-design" alt=""/>
@@ -40,9 +40,8 @@
       <caption webpage="poster" alt=""/>
     </file>
   </folder>
-  <file name="首頁.html" crc="3975017807" seo="true" mt="1608693532755" redirect="false"/>
-  <file name="index.html" crc="4249902227" seo="true" mt="1610731744433" redirect="true"/>
-  <file name="動畫.html" crc="3891630816" seo="true" mt="1610729228827" redirect="true"/>
+  <file name="index.html" crc="4226198429" seo="true" mt="1611079954191" redirect="true"/>
   <file name="character-design.html" crc="4161562059" seo="true" mt="1610729208889" redirect="true"/>
   <file name="poster.html" crc="4035585142" seo="true" mt="1610729221017" redirect="true"/>
+  <file name="animation.html" crc="98300625" seo="true" mt="1611079941236" redirect="true"/>
 </manifest>

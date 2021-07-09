@@ -195,10 +195,19 @@
       <image:loc>http://liyen.com/images/0160.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://liyen.com/images/0160_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://liyen.com/images/0197.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://liyen.com/images/0197_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://liyen.com/images/0255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/0255_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/0101-crop-u7551.jpg</image:loc>

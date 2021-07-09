@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1625856922056">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1625857427101">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="animation.css" crc="4218596923" ref="animation"/>
+    <file name="animation.css" crc="3802751290" ref="animation"/>
     <file name="illustration.css" crc="187518215" ref="illustration"/>
     <file name="character.css" crc="3918123788" ref="character"/>
     <file name="1.css" crc="4127891387" ref="1"/>
@@ -216,46 +216,55 @@
     </file>
     <file name="u9405-7.png" crc="3802920566" ref="animation"/>
     <file name="u9405-7_2x.png" crc="142003041" ref="animation"/>
-    <file name="2.jpg" crc="102239876" seo="true" ref="animation">
+    <file name="2.jpg" crc="244157671" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="2_2x.jpg" crc="236289623" seo="true" ref="animation">
+    <file name="2_2x.jpg" crc="4114734703" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="a0807005_海報.jpg" crc="3772619016" seo="true" ref="animation">
+    <file name="a0807005_海報.jpg" crc="266317215" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0035.jpg" crc="4023036217" seo="true" ref="animation">
+    <file name="0035.jpg" crc="390326319" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0035_2x.jpg" crc="3769941345" seo="true" ref="animation">
+    <file name="0035_2x.jpg" crc="245974467" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0347.jpg" crc="262681737" seo="true" ref="animation">
+    <file name="0347.jpg" crc="439500435" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0347_2x.jpg" crc="3981538150" seo="true" ref="animation">
+    <file name="0347_2x.jpg" crc="4278893863" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0330.jpg" crc="3973738977" seo="true" ref="animation">
+    <file name="0330.jpg" crc="3966387402" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0330_2x.jpg" crc="3759049106" seo="true" ref="animation">
+    <file name="0330_2x.jpg" crc="68102609" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0852.jpg" crc="3790226872" seo="true" ref="animation">
+    <file name="0852.jpg" crc="200159575" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0852_2x.jpg" crc="238692402" seo="true" ref="animation">
+    <file name="0852_2x.jpg" crc="153936147" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0160.jpg" crc="40968392" seo="true" ref="animation">
+    <file name="0160.jpg" crc="3901304300" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0197.jpg" crc="344334186" seo="true" ref="animation">
+    <file name="0160_2x.jpg" crc="325982504" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="0255.jpg" crc="3857711676" seo="true" ref="animation">
+    <file name="0197.jpg" crc="386808447" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="0197_2x.jpg" crc="3884905252" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="0255.jpg" crc="198150733" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="0255_2x.jpg" crc="240026531" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
     <file name="0101-crop-u7551.jpg" crc="351964500" seo="true" ref="animation">
@@ -625,7 +634,7 @@
   <file name="index.html" crc="97699058" seo="true" mt="1625856806525" redirect="true"/>
   <file name="illustration.html" crc="4142247337" seo="true" mt="1625856806490" redirect="true"/>
   <file name="1.html" crc="359858004" seo="true" mt="1625828438483" redirect="true"/>
-  <file name="animation.html" crc="3807027113" seo="true" mt="1625856855611" redirect="true"/>
+  <file name="animation.html" crc="3918125245" seo="true" mt="1625857361091" redirect="true"/>
   <file name="2.html" crc="308813000" seo="true" mt="1625839068629" redirect="false"/>
   <file name="character.html" crc="438137526" seo="true" mt="1625856806512" redirect="true"/>
 </manifest>

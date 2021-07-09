@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1625853793895">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1625854404636">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="animation.css" crc="3874525096" ref="animation"/>
+    <file name="animation.css" crc="3847123014" ref="animation"/>
     <file name="illustration.css" crc="187518215" ref="illustration"/>
     <file name="character.css" crc="3918123788" ref="character"/>
     <file name="1.css" crc="4127891387" ref="1"/>
@@ -621,7 +621,7 @@
   <file name="index.html" crc="97699058" seo="true" mt="1625844033371" redirect="true"/>
   <file name="illustration.html" crc="4142247337" seo="true" mt="1625842761392" redirect="true"/>
   <file name="1.html" crc="359858004" seo="true" mt="1625828438483" redirect="true"/>
-  <file name="animation.html" crc="288117361" seo="true" mt="1625852625814" redirect="true"/>
+  <file name="animation.html" crc="3783490068" seo="true" mt="1625854279727" redirect="true"/>
   <file name="2.html" crc="308813000" seo="true" mt="1625839068629" redirect="false"/>
   <file name="character.html" crc="438137526" seo="true" mt="1625842761403" redirect="true"/>
 </manifest>

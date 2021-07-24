@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1626279582987">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1627144415949">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="animation.css" crc="3802751290" ref="animation"/>
     <file name="index.css" crc="253401564" ref="index"/>
-    <file name="illustration.css" crc="3881392565" ref="illustration"/>
-    <file name="others.css" crc="4032339688" ref="others"/>
+    <file name="animation.css" crc="3802751290" ref="animation"/>
+    <file name="illustration.css" crc="495824607" ref="illustration"/>
+    <file name="character.css" crc="426032140" ref="character"/>
     <file name="1.css" crc="4127891387" ref="1"/>
-    <file name="character.css" crc="3918123788" ref="character"/>
+    <file name="others.css" crc="4032339688" ref="others"/>
     <file name="2.css" crc="361468040" ref="2"/>
   </folder>
   <folder name="assets">
@@ -155,10 +155,10 @@
     <file name="lovestuck in the city_2x.jpg" crc="211510735" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="apartment1.jpg" crc="427689376" seo="true" ref="illustration">
+    <file name="apartment1.jpg" crc="4091939932" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="apartment1_2x.jpg" crc="4191064274" seo="true" ref="illustration">
+    <file name="apartment1_2x.jpg" crc="105406570" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="tatoogirl.jpg" crc="405237562" seo="true" ref="illustration">
@@ -195,6 +195,12 @@
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="flowergirl_2x.jpg" crc="41468454" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="dity1.jpg" crc="3987455742" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="dity1_2x.jpg" crc="413025771" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="liongirl.jpg" crc="342126943" seo="true" ref="1">
@@ -624,6 +630,12 @@
     <file name="u9977-a_2x.png" crc="3982371615" ref="character"/>
     <file name="u9985-4-a.png" crc="79055712" ref="character"/>
     <file name="u9985-4-a_2x.png" crc="6664165" ref="character"/>
+    <file name="thehotchick2.jpg" crc="3882418841" seo="true" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
+    <file name="thehotchick2_2x.jpg" crc="8635054" seo="true" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
     <file name="想見你.jpg" crc="4057936478" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
@@ -666,10 +678,10 @@
     </file>
   </folder>
   <file name="index.html" crc="97699058" seo="true" mt="1626279388351" redirect="true"/>
-  <file name="illustration.html" crc="3867406672" seo="true" mt="1626279499382" redirect="true"/>
+  <file name="illustration.html" crc="410712349" seo="true" mt="1627144345355" redirect="true"/>
   <file name="1.html" crc="359858004" seo="true" mt="1625828438483" redirect="true"/>
   <file name="animation.html" crc="4193123522" seo="true" mt="1626279388273" redirect="true"/>
   <file name="2.html" crc="308813000" seo="true" mt="1625839068629" redirect="false"/>
-  <file name="character.html" crc="438137526" seo="true" mt="1626279388311" redirect="true"/>
+  <file name="character.html" crc="4265457234" seo="true" mt="1627144293133" redirect="true"/>
   <file name="others.html" crc="406947876" seo="true" mt="1626279388166" redirect="true"/>
 </manifest>

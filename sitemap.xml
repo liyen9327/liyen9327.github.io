@@ -434,7 +434,7 @@
   </url>
   <url>
     <loc>http://liyen.com/illustration.html</loc>
-    <lastmod>2021-07-15</lastmod>
+    <lastmod>2021-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -551,6 +551,12 @@
     <image:image>
       <image:loc>http://liyen.com/images/flowergirl_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/dity1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/dity1_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://liyen.com/2.html</loc>
@@ -560,9 +566,15 @@
   </url>
   <url>
     <loc>http://liyen.com/character.html</loc>
-    <lastmod>2021-07-15</lastmod>
+    <lastmod>2021-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/thehotchick2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/thehotchick2_2x.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/%E6%83%B3%E8%A6%8B%E4%BD%A0.jpg</image:loc>
     </image:image>

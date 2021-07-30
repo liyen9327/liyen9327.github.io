@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1627144415949">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1627655365705">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
+    <file name="illustration.css" crc="4111795350" ref="illustration"/>
     <file name="index.css" crc="253401564" ref="index"/>
-    <file name="animation.css" crc="3802751290" ref="animation"/>
-    <file name="illustration.css" crc="495824607" ref="illustration"/>
     <file name="character.css" crc="426032140" ref="character"/>
-    <file name="1.css" crc="4127891387" ref="1"/>
     <file name="others.css" crc="4032339688" ref="others"/>
+    <file name="1.css" crc="4127891387" ref="1"/>
+    <file name="animation.css" crc="473085244" ref="animation"/>
     <file name="2.css" crc="361468040" ref="2"/>
   </folder>
   <folder name="assets">
@@ -46,11 +46,13 @@
     <file name="u10163_2x.png" crc="4260400765" ref="index"/>
     <file name="u10163-a.png" crc="3836601146" ref="index"/>
     <file name="u10163-a_2x.png" crc="3989983210" ref="index"/>
-    <file name="liongirl736x442.jpg" crc="4205474386" seo="true" ref="index">
+    <file name="liongirl736x442.jpg" crc="4205474386" seo="true" ref="index:illustration">
       <caption webpage="index" alt=""/>
+      <caption webpage="illustration" alt=""/>
     </file>
-    <file name="liongirl736x442_2x.jpg" crc="140351869" seo="true" ref="index">
+    <file name="liongirl736x442_2x.jpg" crc="140351869" seo="true" ref="index:illustration">
       <caption webpage="index" alt=""/>
+      <caption webpage="illustration" alt=""/>
     </file>
     <file name="u530-4.png" crc="169550606" ref="index"/>
     <file name="u530-4_2x.png" crc="67288686" ref="index"/>
@@ -149,16 +151,25 @@
     <file name="留給你的我從未_2x.jpg" crc="4023368964" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="lovestuck in the city.jpg" crc="390903467" seo="true" ref="illustration">
+    <file name="lovestuck in the city.jpg" crc="358474124" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="lovestuck in the city_2x.jpg" crc="211510735" seo="true" ref="illustration">
+    <file name="lovestuck in the city_2x.jpg" crc="181648568" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="apartment1.jpg" crc="4091939932" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="apartment1_2x.jpg" crc="105406570" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="summerday2.jpg" crc="344566638" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="summerday2_2x.jpg" crc="4221292545" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="tiger1.jpg" crc="373794941" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="tatoogirl.jpg" crc="405237562" seo="true" ref="illustration">
@@ -616,6 +627,36 @@
     <file name="character_2x.jpg" crc="241068013" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
+    <file name="model charater.jpg" crc="240670192" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="model charater_2x.jpg" crc="79620203" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="bedroom.jpg" crc="4066447706" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="bedroom_2x.jpg" crc="7223850" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="forest.jpg" crc="3788014363" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="forest_2x.jpg" crc="3912729681" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="storyboard1.jpg" crc="3763744096" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="storyboard1_2x.jpg" crc="3938653052" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="storyboard2.jpg" crc="169500958" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="storyboard2_2x.jpg" crc="3949023162" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
     <file name="u9994.png" crc="431491096" ref="character"/>
     <file name="u9994_2x.png" crc="4160984124" ref="character"/>
     <file name="u9994-a.png" crc="40027291" ref="character"/>
@@ -678,9 +719,9 @@
     </file>
   </folder>
   <file name="index.html" crc="97699058" seo="true" mt="1626279388351" redirect="true"/>
-  <file name="illustration.html" crc="410712349" seo="true" mt="1627144345355" redirect="true"/>
+  <file name="illustration.html" crc="264472311" seo="true" mt="1627655237917" redirect="true"/>
   <file name="1.html" crc="359858004" seo="true" mt="1625828438483" redirect="true"/>
-  <file name="animation.html" crc="4193123522" seo="true" mt="1626279388273" redirect="true"/>
+  <file name="animation.html" crc="3975933837" seo="true" mt="1627655280834" redirect="true"/>
   <file name="2.html" crc="308813000" seo="true" mt="1625839068629" redirect="false"/>
   <file name="character.html" crc="4265457234" seo="true" mt="1627144293133" redirect="true"/>
   <file name="others.html" crc="406947876" seo="true" mt="1626279388166" redirect="true"/>

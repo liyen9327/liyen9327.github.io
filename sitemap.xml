@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>http://liyen.com/animation.html</loc>
-    <lastmod>2021-07-15</lastmod>
+    <lastmod>2021-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -431,12 +431,48 @@
     <image:image>
       <image:loc>http://liyen.com/images/character_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/model%20charater.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/model%20charater_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/bedroom.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/bedroom_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/forest.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/forest_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/storyboard1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/storyboard1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/storyboard2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/storyboard2_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://liyen.com/illustration.html</loc>
-    <lastmod>2021-07-25</lastmod>
+    <lastmod>2021-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/liongirl736x442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/liongirl736x442_2x.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
     </image:image>
@@ -514,6 +550,15 @@
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/apartment1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/summerday2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/summerday2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/tiger1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/tatoogirl.jpg</image:loc>

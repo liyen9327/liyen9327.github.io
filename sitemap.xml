@@ -464,15 +464,9 @@
   </url>
   <url>
     <loc>http://liyen.com/illustration.html</loc>
-    <lastmod>2021-07-30</lastmod>
+    <lastmod>2021-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://liyen.com/images/liongirl736x442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/liongirl736x442_2x.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
     </image:image>
@@ -502,6 +496,12 @@
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/laytogether_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E6%91%A9%E6%89%98%E8%BB%8A%E9%9B%A2%E5%B3%B6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E6%91%A9%E6%89%98%E8%BB%8A%E9%9B%A2%E5%B3%B6_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/goldfish1.jpg</image:loc>

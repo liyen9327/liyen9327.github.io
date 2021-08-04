@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1627655365705">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1628101965294">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="illustration.css" crc="4111795350" ref="illustration"/>
     <file name="index.css" crc="253401564" ref="index"/>
-    <file name="character.css" crc="426032140" ref="character"/>
     <file name="others.css" crc="4032339688" ref="others"/>
-    <file name="1.css" crc="4127891387" ref="1"/>
     <file name="animation.css" crc="473085244" ref="animation"/>
+    <file name="1.css" crc="4127891387" ref="1"/>
+    <file name="character.css" crc="426032140" ref="character"/>
+    <file name="illustration.css" crc="4214321758" ref="illustration"/>
     <file name="2.css" crc="361468040" ref="2"/>
   </folder>
   <folder name="assets">
@@ -46,13 +46,11 @@
     <file name="u10163_2x.png" crc="4260400765" ref="index"/>
     <file name="u10163-a.png" crc="3836601146" ref="index"/>
     <file name="u10163-a_2x.png" crc="3989983210" ref="index"/>
-    <file name="liongirl736x442.jpg" crc="4205474386" seo="true" ref="index:illustration">
+    <file name="liongirl736x442.jpg" crc="4205474386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="illustration" alt=""/>
     </file>
-    <file name="liongirl736x442_2x.jpg" crc="140351869" seo="true" ref="index:illustration">
+    <file name="liongirl736x442_2x.jpg" crc="140351869" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="illustration" alt=""/>
     </file>
     <file name="u530-4.png" crc="169550606" ref="index"/>
     <file name="u530-4_2x.png" crc="67288686" ref="index"/>
@@ -69,8 +67,6 @@
     </file>
     <file name="u10244-4.png" crc="4096942598" ref="index"/>
     <file name="u10244-4_2x.png" crc="4266299866" ref="index"/>
-    <file name="u165-4.png" crc="169550606" ref="illustration"/>
-    <file name="u165-4_2x.png" crc="67288686" ref="illustration"/>
     <file name="lily chen377x83.png" crc="4268652792" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
@@ -113,6 +109,12 @@
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="laytogether_2x.jpg" crc="4267854052" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="摩托車離島.jpg" crc="3810543374" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="摩托車離島_2x.jpg" crc="110733140" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="goldfish1.jpg" crc="4171333864" seo="true" ref="illustration">
@@ -719,7 +721,7 @@
     </file>
   </folder>
   <file name="index.html" crc="97699058" seo="true" mt="1626279388351" redirect="true"/>
-  <file name="illustration.html" crc="264472311" seo="true" mt="1627655237917" redirect="true"/>
+  <file name="illustration.html" crc="192304237" seo="true" mt="1628101874324" redirect="true"/>
   <file name="1.html" crc="359858004" seo="true" mt="1625828438483" redirect="true"/>
   <file name="animation.html" crc="3975933837" seo="true" mt="1627655280834" redirect="true"/>
   <file name="2.html" crc="308813000" seo="true" mt="1625839068629" redirect="false"/>

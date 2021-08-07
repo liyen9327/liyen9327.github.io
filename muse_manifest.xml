@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1628101965294">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1628340924857">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="253401564" ref="index"/>
-    <file name="others.css" crc="4032339688" ref="others"/>
     <file name="animation.css" crc="473085244" ref="animation"/>
-    <file name="1.css" crc="4127891387" ref="1"/>
-    <file name="character.css" crc="426032140" ref="character"/>
-    <file name="illustration.css" crc="4214321758" ref="illustration"/>
+    <file name="index.css" crc="253401564" ref="index"/>
     <file name="2.css" crc="361468040" ref="2"/>
+    <file name="others.css" crc="4032339688" ref="others"/>
+    <file name="character.css" crc="3932163174" ref="character"/>
+    <file name="1.css" crc="4127891387" ref="1"/>
+    <file name="illustration.css" crc="3758362909" ref="illustration"/>
   </folder>
   <folder name="assets">
     <file name="0101-0150.mkv" crc="4172191318" seo="true" mt="1625832224000"/>
@@ -679,6 +679,12 @@
     <file name="thehotchick2_2x.jpg" crc="8635054" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
+    <file name="萬秀洗衣店.jpg" crc="202578511" seo="true" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
+    <file name="萬秀洗衣店_2x.jpg" crc="4190431197" seo="true" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
     <file name="想見你.jpg" crc="4057936478" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
@@ -721,10 +727,10 @@
     </file>
   </folder>
   <file name="index.html" crc="97699058" seo="true" mt="1626279388351" redirect="true"/>
-  <file name="illustration.html" crc="192304237" seo="true" mt="1628101874324" redirect="true"/>
+  <file name="illustration.html" crc="3862107423" seo="true" mt="1628101874324" redirect="true"/>
   <file name="1.html" crc="359858004" seo="true" mt="1625828438483" redirect="true"/>
   <file name="animation.html" crc="3975933837" seo="true" mt="1627655280834" redirect="true"/>
   <file name="2.html" crc="308813000" seo="true" mt="1625839068629" redirect="false"/>
-  <file name="character.html" crc="4265457234" seo="true" mt="1627144293133" redirect="true"/>
+  <file name="character.html" crc="4090322756" seo="true" mt="1628340861316" redirect="true"/>
   <file name="others.html" crc="406947876" seo="true" mt="1626279388166" redirect="true"/>
 </manifest>

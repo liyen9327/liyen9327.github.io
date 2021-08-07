@@ -611,7 +611,7 @@
   </url>
   <url>
     <loc>http://liyen.com/character.html</loc>
-    <lastmod>2021-07-25</lastmod>
+    <lastmod>2021-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -619,6 +619,12 @@
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/thehotchick2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E8%90%AC%E7%A7%80%E6%B4%97%E8%A1%A3%E5%BA%97.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E8%90%AC%E7%A7%80%E6%B4%97%E8%A1%A3%E5%BA%97_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/%E6%83%B3%E8%A6%8B%E4%BD%A0.jpg</image:loc>

@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://liyen.com/index.html</loc>
-    <lastmod>2021-07-15</lastmod>
+    <lastmod>2021-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E8%90%AC%E7%A7%80%E6%B4%97%E8%A1%A3%E5%BA%97659x697.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E8%90%AC%E7%A7%80%E6%B4%97%E8%A1%A3%E5%BA%97659x697_2x.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/lily%20chen.png</image:loc>
     </image:image>
@@ -18,10 +24,10 @@
       <image:loc>http://liyen.com/images/0089-crop-u1045.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/%E6%83%B3%E8%A6%8B%E4%BD%A0737x521.jpg</image:loc>
+      <image:loc>http://liyen.com/images/thehotchick2-crop-u11478.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/%E6%83%B3%E8%A6%8B%E4%BD%A0737x521_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/thehotchick2-crop-u11478_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -611,7 +617,7 @@
   </url>
   <url>
     <loc>http://liyen.com/character.html</loc>
-    <lastmod>2021-08-07</lastmod>
+    <lastmod>2021-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

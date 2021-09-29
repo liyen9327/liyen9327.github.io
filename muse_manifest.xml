@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1628340924857">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1632934017065">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="animation.css" crc="473085244" ref="animation"/>
-    <file name="index.css" crc="253401564" ref="index"/>
-    <file name="2.css" crc="361468040" ref="2"/>
+    <file name="index.css" crc="4230540683" ref="index"/>
     <file name="others.css" crc="4032339688" ref="others"/>
-    <file name="character.css" crc="3932163174" ref="character"/>
+    <file name="character.css" crc="18258555" ref="character"/>
+    <file name="2.css" crc="361468040" ref="2"/>
     <file name="1.css" crc="4127891387" ref="1"/>
+    <file name="animation.css" crc="473085244" ref="animation"/>
     <file name="illustration.css" crc="3758362909" ref="illustration"/>
   </folder>
   <folder name="assets">
@@ -28,6 +28,12 @@
     <file name="touchswipe.js" crc="4075097462" ref="animation"/>
   </folder>
   <folder name="images">
+    <file name="萬秀洗衣店659x697.jpg" crc="17278368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="萬秀洗衣店659x697_2x.jpg" crc="59878936" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="lily chen.png" crc="347766618" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -59,10 +65,10 @@
     </file>
     <file name="u10096-4.png" crc="4200656961" ref="index"/>
     <file name="u10096-4_2x.png" crc="137967775" ref="index"/>
-    <file name="想見你737x521.jpg" crc="3994650527" seo="true" ref="index">
+    <file name="thehotchick2-crop-u11478.jpg" crc="365023093" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="想見你737x521_2x.jpg" crc="4103812167" seo="true" ref="index">
+    <file name="thehotchick2-crop-u11478_2x.jpg" crc="490192012" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u10244-4.png" crc="4096942598" ref="index"/>
@@ -679,10 +685,10 @@
     <file name="thehotchick2_2x.jpg" crc="8635054" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
-    <file name="萬秀洗衣店.jpg" crc="202578511" seo="true" ref="character">
+    <file name="萬秀洗衣店.jpg" crc="4058071280" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
-    <file name="萬秀洗衣店_2x.jpg" crc="4190431197" seo="true" ref="character">
+    <file name="萬秀洗衣店_2x.jpg" crc="210048016" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
     <file name="想見你.jpg" crc="4057936478" seo="true" ref="character">
@@ -726,11 +732,11 @@
       <caption webpage="others" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="97699058" seo="true" mt="1626279388351" redirect="true"/>
+  <file name="index.html" crc="3929765379" seo="true" mt="1632806253629" redirect="true"/>
   <file name="illustration.html" crc="3862107423" seo="true" mt="1628101874324" redirect="true"/>
   <file name="1.html" crc="359858004" seo="true" mt="1625828438483" redirect="true"/>
   <file name="animation.html" crc="3975933837" seo="true" mt="1627655280834" redirect="true"/>
   <file name="2.html" crc="308813000" seo="true" mt="1625839068629" redirect="false"/>
-  <file name="character.html" crc="4090322756" seo="true" mt="1628340861316" redirect="true"/>
+  <file name="character.html" crc="453605695" seo="true" mt="1632806021453" redirect="true"/>
   <file name="others.html" crc="406947876" seo="true" mt="1626279388166" redirect="true"/>
 </manifest>

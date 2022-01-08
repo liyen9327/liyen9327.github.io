@@ -657,9 +657,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://liyen.com/images/%E4%BD%9C%E5%93%81%E6%95%B4%E7%90%86_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201526x372.jpg</image:loc>
     </image:image>
     <image:image>
@@ -672,16 +669,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://liyen.com/images/%E4%BD%9C%E5%93%81%E6%95%B4%E7%90%86-02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E4%BD%9C%E5%93%81%E6%95%B4%E7%90%86-02_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://liyen.com/images/%E4%BD%9C%E5%93%81%E6%95%B4%E7%90%86_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/%E4%BD%9C%E5%93%81%E6%95%B4%E7%90%86_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E4%BD%9C%E5%93%81%E6%95%B4%E7%90%86-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E4%BD%9C%E5%93%81%E6%95%B4%E7%90%86-02_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/%E4%BD%9C%E5%93%81%E6%95%B4%E7%90%86-04.jpg</image:loc>

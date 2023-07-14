@@ -158,17 +158,11 @@
   </url>
   <url>
     <loc>http://liyen.com/illustration.html</loc>
-    <lastmod>2023-04-22</lastmod>
+    <lastmod>2023-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/liongirl736x442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/liongirl736x442_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/foxprincess.jpg</image:loc>
@@ -189,19 +183,19 @@
       <image:loc>http://liyen.com/images/%E6%98%9F%E7%A9%BA_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/virus2.jpg</image:loc>
+      <image:loc>http://liyen.com/images/liongirl736x442.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/hawl.jpg</image:loc>
+      <image:loc>http://liyen.com/images/liongirl736x442_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/hawl_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/apartment1784x784.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/laytogether.jpg</image:loc>
+      <image:loc>http://liyen.com/images/apartment1784x784_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/laytogether_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/s__182501381.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/%E6%91%A9%E6%89%98%E8%BB%8A%E9%9B%A2%E5%B3%B6.jpg</image:loc>
@@ -210,22 +204,19 @@
       <image:loc>http://liyen.com/images/%E6%91%A9%E6%89%98%E8%BB%8A%E9%9B%A2%E5%B3%B6_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/billieeilish.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/billieeilish_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/girl6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/girl6_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://liyen.com/images/wonwoo2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/wonwoo2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/virus2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/hawl.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/hawl_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/%E7%95%99%E7%B5%A6%E4%BD%A0%E7%9A%84%E6%88%91%E5%BE%9E%E6%9C%AA.jpg</image:loc>
@@ -238,12 +229,6 @@
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/lovestuck%20in%20the%20city_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/apartment1784x784.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/apartment1784x784_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/summerday2.jpg</image:loc>
@@ -1163,7 +1148,7 @@
   </url>
   <url>
     <loc>http://liyen.com/comics.html</loc>
-    <lastmod>2023-04-22</lastmod>
+    <lastmod>2023-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

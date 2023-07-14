@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1689309712552">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1689314363651">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="others.css" crc="275457357" ref="others"/>
-    <file name="rerun.css" crc="32538418" ref="rerun"/>
-    <file name="go-out.css" crc="523103535" ref="go-out"/>
-    <file name="animation.css" crc="3851750046" ref="animation"/>
-    <file name="drawing.css" crc="4105569633" ref="drawing"/>
-    <file name="1.css" crc="3968817893" ref="1"/>
-    <file name="index.css" crc="420873764" ref="index"/>
-    <file name="illustration.css" crc="4153819816" ref="illustration"/>
-    <file name="workshop.css" crc="4292939274" ref="workshop"/>
-    <file name="character.css" crc="64706845" ref="character"/>
-    <file name="_.css" crc="4044926397" ref=")"/>
-    <file name="outside-the-room.css" crc="4188347820" ref="outside-the-room"/>
-    <file name="nft.css" crc="4085234370" ref="nft"/>
-    <file name="comics.css" crc="57598721" ref="comics"/>
     <file name="2.css" crc="361468040" ref="2"/>
-    <file name="comics2.css" crc="61784218" ref="comics2"/>
     <file name="comics1.css" crc="3866318369" ref="comics1"/>
+    <file name="character.css" crc="64706845" ref="character"/>
+    <file name="animation.css" crc="3851750046" ref="animation"/>
+    <file name="nft.css" crc="4201732287" ref="nft"/>
+    <file name="workshop.css" crc="4292939274" ref="workshop"/>
+    <file name="index.css" crc="4206588745" ref="index"/>
+    <file name="go-out.css" crc="523103535" ref="go-out"/>
+    <file name="drawing.css" crc="4105569633" ref="drawing"/>
+    <file name="illustration.css" crc="4153819816" ref="illustration"/>
+    <file name="comics2.css" crc="61784218" ref="comics2"/>
+    <file name="others.css" crc="275457357" ref="others"/>
+    <file name="1.css" crc="3968817893" ref="1"/>
+    <file name="comics.css" crc="57598721" ref="comics"/>
+    <file name="outside-the-room.css" crc="4188347820" ref="outside-the-room"/>
+    <file name="_.css" crc="4044926397" ref=")"/>
+    <file name="rerun.css" crc="32538418" ref="rerun"/>
   </folder>
   <folder name="assets">
     <file name="0101-0150.mkv" crc="4172191318" seo="true" mt="1625832224000"/>
@@ -72,10 +72,10 @@
     <file name="apartment1-crop-u49620.jpg" crc="4115793457" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="v2_p1_eng-crop-u49672.jpg" crc="255582597" seo="true" ref="index">
+    <file name="v2_p1_eng-crop-u49672.jpg" crc="3813742016" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="v2_p1_eng-crop-u49672_2x.jpg" crc="4276755015" seo="true" ref="index">
+    <file name="v2_p1_eng-crop-u49672_2x.jpg" crc="4027067666" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:outside-the-room"/>
@@ -103,16 +103,28 @@
     <file name="go out-2-2_2x.jpg" crc="3843072344" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="spacebuddy.jpg" crc="194209912" seo="true" ref="index">
+    <file name="nft-1.jpg" crc="76201369" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="spacebuddy_2x.jpg" crc="235127553" seo="true" ref="index">
+    <file name="nft-1_2x.jpg" crc="4180524344" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="v2_p1_eng-crop-u48850.jpg" crc="10232442" seo="true" ref="index">
+    <file name="nft-2.jpg" crc="4184250743" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="v2_p1_eng-crop-u48850_2x.jpg" crc="442665688" seo="true" ref="index">
+    <file name="nft-2_2x.jpg" crc="4049481897" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veneration2-1.jpg" crc="96491079" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veneration2-1_2x.jpg" crc="4018510404" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veneration2-2.jpg" crc="22853604" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veneration2-2_2x.jpg" crc="4103767212" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="outside the room-1.png" crc="262435427" ref="index">
@@ -127,23 +139,29 @@
     <file name="outside the room-2_2x.png" crc="99438272" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="工作營-11-crop-u49259.jpg" crc="4037875701" seo="true" ref="index">
+    <file name="workshop1-1.jpg" crc="247935631" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="工作營-11-crop-u49259_2x.jpg" crc="4034059447" seo="true" ref="index">
+    <file name="workshop1-1_2x.jpg" crc="4066283857" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="workshop1-2.jpg" crc="1210653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="workshop1-2_2x.jpg" crc="3908905536" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34.png" crc="368182642" seo="true" ref="index:drawing:others:animation">
       <caption webpage="index" alt=""/>
       <caption webpage="drawing" alt=""/>
-      <caption webpage="animation" alt=""/>
       <caption webpage="others" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png" crc="217624528" seo="true" ref="index:drawing:others:animation">
       <caption webpage="index" alt=""/>
       <caption webpage="drawing" alt=""/>
-      <caption webpage="animation" alt=""/>
       <caption webpage="others" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="lily chen377x83.png" crc="4268652792" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
@@ -1271,10 +1289,10 @@
     <file name="02_2x.jpg" crc="459311817" seo="true" ref="nft">
       <caption webpage="nft" alt=""/>
     </file>
-    <file name="spacebuddy198x198.jpg" crc="3997369667" seo="true" ref="nft">
+    <file name="spacebuddy.jpg" crc="3997369667" seo="true" ref="nft">
       <caption webpage="nft" alt=""/>
     </file>
-    <file name="spacebuddy198x198_2x.jpg" crc="3940277665" seo="true" ref="nft">
+    <file name="spacebuddy_2x.jpg" crc="3940277665" seo="true" ref="nft">
       <caption webpage="nft" alt=""/>
     </file>
     <file name="102.jpg" crc="3846533340" seo="true" ref="nft">
@@ -1474,7 +1492,7 @@
       <caption webpage=")" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="32358851" seo="true" mt="1680955526231" redirect="true"/>
+  <file name="index.html" crc="184107141" seo="true" mt="1689314319387" redirect="true"/>
   <file name="illustration.html" crc="193609230" seo="true" mt="1688966353517" redirect="true"/>
   <file name="1.html" crc="394689471" seo="true" mt="1646157724243" redirect="true"/>
   <file name="outside-the-room.html" crc="57892238" seo="true" mt="1682744126595" redirect="true"/>
@@ -1486,7 +1504,7 @@
   <file name="animation.html" crc="92190179" seo="true" mt="1682171866980" redirect="true"/>
   <file name="rerun.html" crc="33413992" seo="true" mt="1682744102379" redirect="true"/>
   <file name="comics1.html" crc="4039863949" seo="true" mt="1682170208925" redirect="true"/>
-  <file name="nft.html" crc="3768812067" seo="true" mt="1682174195244" redirect="true"/>
+  <file name="nft.html" crc="4257885935" seo="true" mt="1689310059390" redirect="true"/>
   <file name="go-out.html" crc="242536105" seo="true" mt="1680944921155" redirect="true"/>
   <file name="comics2.html" crc="4205618172" seo="true" mt="1682170284508" redirect="true"/>
   <file name="comics.html" crc="3919231804" seo="true" mt="1688966003764" redirect="true"/>

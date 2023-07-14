@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://liyen.com/index.html</loc>
-    <lastmod>2023-04-08</lastmod>
+    <lastmod>2023-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -28,24 +28,6 @@
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/v2_p1_eng-crop-u49672_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/spacebuddy.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/spacebuddy_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/v2_p1_eng-crop-u48850.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/v2_p1_eng-crop-u48850_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E5%B7%A5%E4%BD%9C%E7%87%9F-11-crop-u49259.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E5%B7%A5%E4%BD%9C%E7%87%9F-11-crop-u49259_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34.png</image:loc>
@@ -830,7 +812,7 @@
   </url>
   <url>
     <loc>http://liyen.com/nft.html</loc>
-    <lastmod>2023-04-22</lastmod>
+    <lastmod>2023-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -876,10 +858,10 @@
       <image:loc>http://liyen.com/images/02_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/spacebuddy198x198.jpg</image:loc>
+      <image:loc>http://liyen.com/images/spacebuddy.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/spacebuddy198x198_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/spacebuddy_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/102.jpg</image:loc>

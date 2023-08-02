@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1690127745648">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1690977295749">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="workshop.css" crc="4292939274" ref="workshop"/>
-    <file name="comics.css" crc="57598721" ref="comics"/>
-    <file name="illustration.css" crc="4153819816" ref="illustration"/>
-    <file name="character.css" crc="64706845" ref="character"/>
-    <file name="comics2.css" crc="61784218" ref="comics2"/>
-    <file name="go-out.css" crc="523103535" ref="go-out"/>
-    <file name="nft.css" crc="4201732287" ref="nft"/>
-    <file name="2.css" crc="361468040" ref="2"/>
     <file name="index.css" crc="3999610330" ref="index"/>
+    <file name="go-out.css" crc="523103535" ref="go-out"/>
+    <file name="school-anniversary.css" crc="282017082" ref="school-anniversary"/>
+    <file name="illustration.css" crc="4153819816" ref="illustration"/>
+    <file name="nft.css" crc="4201732287" ref="nft"/>
     <file name="others.css" crc="412311555" ref="others"/>
-    <file name="class-exhibition.css" crc="4288582944" ref="class-exhibition"/>
+    <file name="1.css" crc="3968817893" ref="1"/>
+    <file name="animation.css" crc="3851750046" ref="animation"/>
+    <file name="comics1.css" crc="3866318369" ref="comics1"/>
     <file name="outside-the-room.css" crc="4188347820" ref="outside-the-room"/>
     <file name="drawing.css" crc="4105569633" ref="drawing"/>
-    <file name="animation.css" crc="3851750046" ref="animation"/>
-    <file name="_.css" crc="4209784002" ref=")"/>
-    <file name="comics1.css" crc="3866318369" ref="comics1"/>
     <file name="rerun.css" crc="12327719" ref="rerun"/>
-    <file name="1.css" crc="3968817893" ref="1"/>
-    <file name="school-anniversary.css" crc="282017082" ref="school-anniversary"/>
+    <file name="comics2.css" crc="61784218" ref="comics2"/>
+    <file name="2.css" crc="361468040" ref="2"/>
+    <file name="comics.css" crc="57598721" ref="comics"/>
+    <file name="_.css" crc="4209784002" ref=")"/>
+    <file name="character.css" crc="64706845" ref="character"/>
     <file name="cloth.css" crc="357936320" ref="cloth"/>
+    <file name="class-exhibition.css" crc="4288582944" ref="class-exhibition"/>
+    <file name="workshop.css" crc="4292939274" ref="workshop"/>
   </folder>
   <folder name="assets">
     <file name="0101-0150.mkv" crc="4172191318" seo="true" mt="1625832224000"/>
@@ -155,18 +155,14 @@
     <file name="workshop1-2_2x.jpg" crc="3908905536" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123.png" crc="373734057" seo="true" ref="index:others">
+    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123.png" crc="373734057" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="others" alt=""/>
     </file>
-    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123_2x.png" crc="4167064138" seo="true" ref="index:others">
+    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123_2x.png" crc="4167064138" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="others" alt=""/>
     </file>
-    <file name="lily chen377x83.png" crc="4268652792" seo="true" ref="illustration:workshop:class-exhibition">
+    <file name="lily chen377x83.png" crc="4268652792" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
-      <caption webpage="class-exhibition" alt=""/>
-      <caption webpage="workshop" alt=""/>
     </file>
     <file name="u9444.png" crc="431491096" ref="illustration"/>
     <file name="u9444_2x.png" crc="4160984124" ref="illustration"/>
@@ -921,6 +917,22 @@
     <file name="u12845-4-a_2x.png" crc="219336112" ref="others"/>
     <file name="u50594-4.png" crc="4256981288" ref="others"/>
     <file name="u50594-4_2x.png" crc="197019319" ref="others"/>
+    <file name="line_album_portfolio_230724-crop-u51631.jpg" crc="3936890300" seo="true" ref="others">
+      <caption webpage="others" alt=""/>
+    </file>
+    <file name="line_album_portfolio_230724-crop-u51631_2x.jpg" crc="302581915" seo="true" ref="others">
+      <caption webpage="others" alt=""/>
+    </file>
+    <file name="u51645-4.png" crc="436891365" ref="others"/>
+    <file name="u51645-4_2x.png" crc="521458745" ref="others"/>
+    <file name="golfplaingsax-crop-u51664.jpg" crc="439394737" seo="true" ref="others">
+      <caption webpage="others" alt=""/>
+    </file>
+    <file name="golfplaingsax-crop-u51664_2x.jpg" crc="4214998251" seo="true" ref="others">
+      <caption webpage="others" alt=""/>
+    </file>
+    <file name="u51666-4.png" crc="4093689519" ref="others"/>
+    <file name="u51666-4_2x.png" crc="3836665863" ref="others"/>
     <file name="作品整理_工作區域 1-crop-u50588.jpg" crc="4048020248" seo="true" ref="others">
       <caption webpage="others" alt=""/>
     </file>
@@ -1106,13 +1118,11 @@
     <file name="whole.png" crc="228786783" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
     </file>
-    <file name="1.jpg" crc="3850007632" seo="true" ref="rerun:)">
+    <file name="1.jpg" crc="166066394" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
-      <caption webpage=")" alt=""/>
     </file>
-    <file name="1_2x.jpg" crc="3955795674" seo="true" ref="rerun:)">
+    <file name="1_2x.jpg" crc="145980349" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
-      <caption webpage=")" alt=""/>
     </file>
     <file name="22.jpg" crc="4139876034" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
@@ -1123,12 +1133,10 @@
     <file name="sofa2.png" crc="231377086" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
     </file>
-    <file name="3.jpg" crc="4216912351" seo="true" ref="rerun:nft">
-      <caption webpage="nft" alt=""/>
+    <file name="3.jpg" crc="3768952287" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
     </file>
-    <file name="3_2x.jpg" crc="349429567" seo="true" ref="rerun:nft">
-      <caption webpage="nft" alt=""/>
+    <file name="3_2x.jpg" crc="4247982067" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
     </file>
     <file name="4.jpg" crc="96720315" seo="true" ref="rerun">
@@ -1167,12 +1175,10 @@
     <file name="14_2x.jpg" crc="204329961" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
     </file>
-    <file name="10.jpg" crc="3846533340" seo="true" ref="rerun:nft">
-      <caption webpage="nft" alt=""/>
+    <file name="10.jpg" crc="4209721002" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
     </file>
-    <file name="10_2x.jpg" crc="3933871443" seo="true" ref="rerun:nft">
-      <caption webpage="nft" alt=""/>
+    <file name="10_2x.jpg" crc="3837875331" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
     </file>
     <file name="11.jpg" crc="44769718" seo="true" ref="rerun">
@@ -1273,6 +1279,12 @@
     <file name="dog3-2_2x.jpg" crc="4158610788" seo="true" ref="nft">
       <caption webpage="nft" alt=""/>
     </file>
+    <file name="32.jpg" crc="4216912351" seo="true" ref="nft">
+      <caption webpage="nft" alt=""/>
+    </file>
+    <file name="3_2x2.jpg" crc="349429567" seo="true" ref="nft">
+      <caption webpage="nft" alt=""/>
+    </file>
     <file name="astronaut7.jpg" crc="157882883" seo="true" ref="nft">
       <caption webpage="nft" alt=""/>
     </file>
@@ -1295,6 +1307,12 @@
       <caption webpage="nft" alt=""/>
     </file>
     <file name="spacebuddy_2x.jpg" crc="3940277665" seo="true" ref="nft">
+      <caption webpage="nft" alt=""/>
+    </file>
+    <file name="102.jpg" crc="3846533340" seo="true" ref="nft">
+      <caption webpage="nft" alt=""/>
+    </file>
+    <file name="10_2x2.jpg" crc="3933871443" seo="true" ref="nft">
       <caption webpage="nft" alt=""/>
     </file>
     <file name="cartondog.jpg" crc="3940242389" seo="true" ref="nft">
@@ -1467,14 +1485,19 @@
     <file name="一些想做帥妹子的發想-7_2x.jpg" crc="4055468270" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
+    <file name="12.jpg" crc="3850007632" seo="true" ref=")">
+      <caption webpage=")" alt=""/>
+    </file>
+    <file name="1_2x2.jpg" crc="3955795674" seo="true" ref=")">
+      <caption webpage=")" alt=""/>
+    </file>
     <file name="一些想做帥妹子的發想-6.png" crc="4255144794" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
     <file name="一些想做帥妹子的發想-6_2x.png" crc="386421052" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="4.png" crc="68871217" seo="true" ref="):class-exhibition">
-      <caption webpage="class-exhibition" alt=""/>
+    <file name="4.png" crc="3975264446" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
     <file name="5.png" crc="140809481" seo="true" ref=")">
@@ -1512,22 +1535,6 @@
     <file name="u51104-4_2x.png" crc="470551268" ref="class-exhibition"/>
     <file name="u51103-4.png" crc="433170144" ref="class-exhibition"/>
     <file name="u51103-4_2x.png" crc="53340025" ref="class-exhibition"/>
-    <file name="line_album_portfolio_230724-crop-u51631.jpg" crc="3936890300" seo="true" ref="others">
-      <caption webpage="others" alt=""/>
-    </file>
-    <file name="line_album_portfolio_230724-crop-u51631_2x.jpg" crc="302581915" seo="true" ref="others">
-      <caption webpage="others" alt=""/>
-    </file>
-    <file name="u51645-4.png" crc="436891365" ref="others"/>
-    <file name="u51645-4_2x.png" crc="521458745" ref="others"/>
-    <file name="golfplaingsax-crop-u51664.jpg" crc="439394737" seo="true" ref="others">
-      <caption webpage="others" alt=""/>
-    </file>
-    <file name="golfplaingsax-crop-u51664_2x.jpg" crc="4214998251" seo="true" ref="others">
-      <caption webpage="others" alt=""/>
-    </file>
-    <file name="u51666-4.png" crc="4093689519" ref="others"/>
-    <file name="u51666-4_2x.png" crc="3836665863" ref="others"/>
     <file name="u51341-7.png" crc="4075054934" ref="class-exhibition"/>
     <file name="u51341-7_2x.png" crc="4264211818" ref="class-exhibition"/>
     <file name="u51342-5.png" crc="4291927685" ref="class-exhibition"/>
@@ -1561,6 +1568,9 @@
     </file>
     <file name="u51347-5.png" crc="4188551352" ref="class-exhibition"/>
     <file name="u51347-5_2x.png" crc="136352631" ref="class-exhibition"/>
+    <file name="42.png" crc="68871217" seo="true" ref="class-exhibition">
+      <caption webpage="class-exhibition" alt=""/>
+    </file>
     <file name="4_2x.png" crc="309887593" seo="true" ref="class-exhibition">
       <caption webpage="class-exhibition" alt=""/>
     </file>
@@ -1660,12 +1670,12 @@
   <file name="animation.html" crc="3788930192" seo="true" mt="1682171866980" redirect="true"/>
   <file name="rerun.html" crc="4083133453" seo="true" mt="1689320220306" redirect="true"/>
   <file name="comics1.html" crc="4039863949" seo="true" mt="1682170208925" redirect="true"/>
-  <file name="nft.html" crc="3954973475" seo="true" mt="1690123297084" redirect="true"/>
+  <file name="nft.html" crc="4257885935" seo="true" mt="1690123297084" redirect="true"/>
   <file name="go-out.html" crc="242536105" seo="true" mt="1680944921155" redirect="true"/>
   <file name="comics2.html" crc="4205618172" seo="true" mt="1682170284508" redirect="true"/>
   <file name="comics.html" crc="3919231804" seo="true" mt="1688966003764" redirect="true"/>
-  <file name=").html" crc="4210237441" seo="true" mt="1690094461165" redirect="true"/>
-  <file name="class-exhibition.html" crc="3926724868" seo="true" mt="1690127661149" redirect="true"/>
+  <file name=").html" crc="4100441425" seo="true" mt="1690094461165" redirect="true"/>
+  <file name="class-exhibition.html" crc="285044829" seo="true" mt="1690127661149" redirect="true"/>
   <file name="cloth.html" crc="271300769" seo="true" mt="1690125361777" redirect="true"/>
   <file name="school-anniversary.html" crc="528588180" seo="true" mt="1690126626671" redirect="true"/>
 </manifest>

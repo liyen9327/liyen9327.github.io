@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1699251470020">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1699252325385">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="animation.css" crc="289027027" ref="animation"/>
@@ -174,15 +174,20 @@
     <file name="workshop1-2_2x.jpg" crc="3908905536" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123.png" crc="373734057" seo="true" ref="index">
+    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34.png" crc="3833124464" seo="true" ref="index:drawing:designs:animation">
       <caption webpage="index" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="drawing" alt=""/>
+      <caption webpage="designs" alt=""/>
     </file>
-    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123_2x.png" crc="4167064138" seo="true" ref="index">
+    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png" crc="4167064138" seo="true" ref="index:drawing:designs:animation">
       <caption webpage="index" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="drawing" alt=""/>
+      <caption webpage="designs" alt=""/>
     </file>
-    <file name="lily chen377x83.png" crc="4268652792" seo="true" ref="illustration:)">
+    <file name="lily chen377x83.png" crc="4268652792" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
-      <caption webpage=")" alt=""/>
     </file>
     <file name="u9444.png" crc="431491096" ref="illustration"/>
     <file name="u9444_2x.png" crc="4160984124" ref="illustration"/>
@@ -1146,13 +1151,11 @@
     <file name="whole.png" crc="228786783" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
     </file>
-    <file name="1.jpg" crc="3850007632" seo="true" ref="rerun:)">
+    <file name="1.jpg" crc="166066394" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
-      <caption webpage=")" alt=""/>
     </file>
-    <file name="1_2x.jpg" crc="3955795674" seo="true" ref="rerun:)">
+    <file name="1_2x.jpg" crc="145980349" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
-      <caption webpage=")" alt=""/>
     </file>
     <file name="22.jpg" crc="4139876034" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
@@ -1497,6 +1500,12 @@
     <file name="u51202-4_2x.png" crc="470551268" ref=")"/>
     <file name="u51204-4.png" crc="4201871560" ref=")"/>
     <file name="u51204-4_2x.png" crc="4113102971" ref=")"/>
+    <file name="12.jpg" crc="3850007632" seo="true" ref=")">
+      <caption webpage=")" alt=""/>
+    </file>
+    <file name="1_2x2.jpg" crc="3955795674" seo="true" ref=")">
+      <caption webpage=")" alt=""/>
+    </file>
     <file name="一些想做帥妹子的發想-7.jpg" crc="226326706" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
@@ -1963,23 +1972,23 @@
       <caption webpage="posters" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4079756659" seo="true" mt="1699249878897" redirect="true"/>
+  <file name="index.html" crc="4127803717" seo="true" mt="1699249878897" redirect="true"/>
   <file name="illustration.html" crc="4195952056" seo="true" mt="1698981447060" redirect="true"/>
   <file name="1.html" crc="394689471" seo="true" mt="1646157724243" redirect="true"/>
   <file name="outside-the-room.html" crc="4145061009" seo="true" mt="1698981447070" redirect="true"/>
   <file name="2.html" crc="308813000" seo="true" mt="1625839068629" redirect="false"/>
   <file name="character.html" crc="4076853199" seo="true" mt="1698981447062" redirect="true"/>
   <file name="workshop.html" crc="4102051412" seo="true" mt="1698981459770" redirect="true"/>
-  <file name="drawing.html" crc="4287412700" seo="true" mt="1698981447063" redirect="true"/>
-  <file name="designs.html" crc="21158608" seo="true" mt="1699249726682" redirect="true"/>
-  <file name="animation.html" crc="4254164174" seo="true" mt="1699250218813" redirect="true"/>
+  <file name="drawing.html" crc="4064120099" seo="true" mt="1698981447063" redirect="true"/>
+  <file name="designs.html" crc="3870676757" seo="true" mt="1699249726682" redirect="true"/>
+  <file name="animation.html" crc="3819375456" seo="true" mt="1699250218813" redirect="true"/>
   <file name="rerun.html" crc="361782567" seo="true" mt="1698981447057" redirect="true"/>
   <file name="comics1.html" crc="4129986962" seo="true" mt="1698981447076" redirect="true"/>
   <file name="nft.html" crc="113898220" seo="true" mt="1698981469849" redirect="true"/>
   <file name="go-out.html" crc="242536105" seo="true" mt="1680944921155" redirect="true"/>
   <file name="comics2.html" crc="3974225055" seo="true" mt="1698981447092" redirect="true"/>
   <file name="comics.html" crc="3952047836" seo="true" mt="1698981447053" redirect="true"/>
-  <file name=").html" crc="352975692" seo="true" mt="1699251397252" redirect="true"/>
+  <file name=").html" crc="4135678146" seo="true" mt="1699251397252" redirect="true"/>
   <file name="class-exhibition.html" crc="273182819" seo="true" mt="1699251222649" redirect="true"/>
   <file name="cloth.html" crc="331222157" seo="true" mt="1699249302452" redirect="true"/>
   <file name="school-anniversary.html" crc="3818847258" seo="true" mt="1698981489081" redirect="true"/>

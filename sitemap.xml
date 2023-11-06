@@ -48,10 +48,10 @@
       <image:loc>http://liyen.com/images/1-crop-u52656_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34218x123.png</image:loc>
+      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34218x123_2x.png</image:loc>
+      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -59,6 +59,12 @@
     <lastmod>2023-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/poster1-crop-u50525.png</image:loc>
     </image:image>
@@ -921,6 +927,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://liyen.com/images/apartment1-crop-u12282.jpg</image:loc>
     </image:image>
     <image:image>
@@ -938,6 +950,12 @@
     <lastmod>2023-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/line_album_portfolio_230724-crop-u51631.jpg</image:loc>
     </image:image>
@@ -1275,13 +1293,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
+      <image:loc>http://liyen.com/images/12.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/1_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/1_2x2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/%E4%B8%80%E4%BA%9B%E6%83%B3%E5%81%9A%E5%B8%A5%E5%A6%B9%E5%AD%90%E7%9A%84%E7%99%BC%E6%83%B3-7.jpg</image:loc>

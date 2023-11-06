@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1699250303980">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1699251470020">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="animation.css" crc="289027027" ref="animation"/>
     <file name="comics2.css" crc="4139954363" ref="comics2"/>
-    <file name="_.css" crc="3947685710" ref=")"/>
+    <file name="_.css" crc="3829791057" ref=")"/>
     <file name="rerun.css" crc="3957319216" ref="rerun"/>
     <file name="2.css" crc="361468040" ref="2"/>
     <file name="class-exhibition.css" crc="214499697" ref="class-exhibition"/>
@@ -174,17 +174,15 @@
     <file name="workshop1-2_2x.jpg" crc="3908905536" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123.png" crc="373734057" seo="true" ref="index:animation">
+    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123.png" crc="373734057" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="animation" alt=""/>
     </file>
-    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123_2x.png" crc="4167064138" seo="true" ref="index:animation">
+    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34218x123_2x.png" crc="4167064138" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="animation" alt=""/>
     </file>
-    <file name="lily chen377x83.png" crc="4268652792" seo="true" ref="illustration:animation">
-      <caption webpage="animation" alt=""/>
+    <file name="lily chen377x83.png" crc="4268652792" seo="true" ref="illustration:)">
       <caption webpage="illustration" alt=""/>
+      <caption webpage=")" alt=""/>
     </file>
     <file name="u9444.png" crc="431491096" ref="illustration"/>
     <file name="u9444_2x.png" crc="4160984124" ref="illustration"/>
@@ -1049,10 +1047,10 @@
     </file>
     <file name="u50527-4.png" crc="4038172650" ref="animation"/>
     <file name="u50527-4_2x.png" crc="156930632" ref="animation"/>
-    <file name="8-crop-u52473.jpg" crc="4131421497" seo="true" ref="animation">
+    <file name="8-crop-u52473.png" crc="74483562" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="8-crop-u52473_2x.jpg" crc="4046697106" seo="true" ref="animation">
+    <file name="8-crop-u52473_2x.png" crc="3889866046" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
     <file name="u52490-4.png" crc="4207420794" ref="animation"/>
@@ -1189,13 +1187,11 @@
     <file name="7_2x.jpg" crc="294168419" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
     </file>
-    <file name="8.jpg" crc="315542539" seo="true" ref="rerun:)">
+    <file name="8.jpg" crc="263286652" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
-      <caption webpage=")" alt=""/>
     </file>
-    <file name="8_2x.jpg" crc="4119399650" seo="true" ref="rerun:)">
+    <file name="8_2x.jpg" crc="376937996" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
-      <caption webpage=")" alt=""/>
     </file>
     <file name="9.jpg" crc="307649093" seo="true" ref="rerun">
       <caption webpage="rerun" alt=""/>
@@ -1525,34 +1521,34 @@
     <file name="5.png" crc="140809481" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="螢幕擷取畫面 2023-11-05 231743.jpg" crc="4274632607" seo="true" ref=")">
+    <file name="螢幕擷取畫面 2023-07-23 142523.jpg" crc="3892510004" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="螢幕擷取畫面 2023-11-05 231743_2x.jpg" crc="3798087293" seo="true" ref=")">
+    <file name="螢幕擷取畫面 2023-07-23 142523_2x.jpg" crc="536206649" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="螢幕擷取畫面 2023-07-23 142523.jpg" crc="4246182661" seo="true" ref=")">
+    <file name="螢幕擷取畫面 2023-11-05 231743.jpg" crc="3919646443" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="螢幕擷取畫面 2023-07-23 142523_2x.jpg" crc="4109376210" seo="true" ref=")">
+    <file name="螢幕擷取畫面 2023-11-05 231743_2x.jpg" crc="4172361593" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="螢幕擷取畫面 2023-11-05 231618.jpg" crc="4107739454" seo="true" ref=")">
+    <file name="8.png" crc="389365904" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="螢幕擷取畫面 2023-11-05 231618_2x.jpg" crc="476203130" seo="true" ref=")">
+    <file name="8_2x.png" crc="4110994914" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="螢幕擷取畫面 2023-11-05 231647.jpg" crc="36863797" seo="true" ref=")">
+    <file name="6.jpg" crc="178339964" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="螢幕擷取畫面 2023-11-05 231647_2x.jpg" crc="4229617103" seo="true" ref=")">
+    <file name="6_2x.jpg" crc="4028051351" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34.png" crc="4051385424" seo="true" ref=")">
+    <file name="螢幕擷取畫面 2023-11-05 231647.jpg" crc="334948015" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png" crc="3834211115" seo="true" ref=")">
+    <file name="螢幕擷取畫面 2023-11-05 231647_2x.jpg" crc="4229048298" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
     <file name="portrait2.png" crc="4273250320" seo="true" ref=")">
@@ -1966,12 +1962,6 @@
     <file name="6_照片亂排3_2x.jpg" crc="243403980" seo="true" ref="posters">
       <caption webpage="posters" alt=""/>
     </file>
-    <file name="6.jpg" crc="295938307" seo="true" ref=")">
-      <caption webpage=")" alt=""/>
-    </file>
-    <file name="6_2x.jpg" crc="1624608" seo="true" ref=")">
-      <caption webpage=")" alt=""/>
-    </file>
   </folder>
   <file name="index.html" crc="4079756659" seo="true" mt="1699249878897" redirect="true"/>
   <file name="illustration.html" crc="4195952056" seo="true" mt="1698981447060" redirect="true"/>
@@ -1982,15 +1972,15 @@
   <file name="workshop.html" crc="4102051412" seo="true" mt="1698981459770" redirect="true"/>
   <file name="drawing.html" crc="4287412700" seo="true" mt="1698981447063" redirect="true"/>
   <file name="designs.html" crc="21158608" seo="true" mt="1699249726682" redirect="true"/>
-  <file name="animation.html" crc="4218269335" seo="true" mt="1699250218813" redirect="true"/>
+  <file name="animation.html" crc="4254164174" seo="true" mt="1699250218813" redirect="true"/>
   <file name="rerun.html" crc="361782567" seo="true" mt="1698981447057" redirect="true"/>
   <file name="comics1.html" crc="4129986962" seo="true" mt="1698981447076" redirect="true"/>
   <file name="nft.html" crc="113898220" seo="true" mt="1698981469849" redirect="true"/>
   <file name="go-out.html" crc="242536105" seo="true" mt="1680944921155" redirect="true"/>
   <file name="comics2.html" crc="3974225055" seo="true" mt="1698981447092" redirect="true"/>
   <file name="comics.html" crc="3952047836" seo="true" mt="1698981447053" redirect="true"/>
-  <file name=").html" crc="3972733516" seo="true" mt="1699250180797" redirect="true"/>
-  <file name="class-exhibition.html" crc="273182819" seo="true" mt="1699199101190" redirect="true"/>
+  <file name=").html" crc="352975692" seo="true" mt="1699251397252" redirect="true"/>
+  <file name="class-exhibition.html" crc="273182819" seo="true" mt="1699251222649" redirect="true"/>
   <file name="cloth.html" crc="331222157" seo="true" mt="1699249302452" redirect="true"/>
   <file name="school-anniversary.html" crc="3818847258" seo="true" mt="1698981489081" redirect="true"/>
   <file name="posters.html" crc="4048843658" seo="true" mt="1699249069206" redirect="true"/>

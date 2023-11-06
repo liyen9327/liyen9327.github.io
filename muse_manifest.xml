@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1699253950389">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1699254285505">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="animation.css" crc="289027027" ref="animation"/>
@@ -1988,7 +1988,7 @@
   <file name="go-out.html" crc="242536105" seo="true" mt="1680944921155" redirect="true"/>
   <file name="comics2.html" crc="3974225055" seo="true" mt="1698981447092" redirect="true"/>
   <file name="comics.html" crc="3952047836" seo="true" mt="1698981447053" redirect="true"/>
-  <file name=").html" crc="3848723682" seo="true" mt="1699253717853" redirect="true"/>
+  <file name=").html" crc="3848723682" seo="true" mt="1699254125933" redirect="true"/>
   <file name="class-exhibition.html" crc="273182819" seo="true" mt="1699251222649" redirect="true"/>
   <file name="cloth.html" crc="331222157" seo="true" mt="1699249302452" redirect="true"/>
   <file name="school-anniversary.html" crc="3818847258" seo="true" mt="1698981489081" redirect="true"/>

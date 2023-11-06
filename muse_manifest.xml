@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1699254285505">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liyen.com" resolutions="1x,2x" timestamp="1699255194865">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="animation.css" crc="289027027" ref="animation"/>
     <file name="comics2.css" crc="4139954363" ref="comics2"/>
-    <file name="_.css" crc="4149373017" ref=")"/>
+    <file name="_.css" crc="3901445080" ref=")"/>
     <file name="rerun.css" crc="3957319216" ref="rerun"/>
     <file name="2.css" crc="361468040" ref="2"/>
     <file name="class-exhibition.css" crc="214499697" ref="class-exhibition"/>
@@ -1506,13 +1506,16 @@
     <file name="1_2x2.jpg" crc="3955795674" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
+    <file name="portrait2.png" crc="4090921983" seo="true" ref=")">
+      <caption webpage=")" alt=""/>
+    </file>
+    <file name="portrait2_2x.png" crc="497286029" seo="true" ref=")">
+      <caption webpage=")" alt=""/>
+    </file>
     <file name="一些想做帥妹子的發想-7.jpg" crc="226326706" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
     <file name="一些想做帥妹子的發想-7_2x.jpg" crc="4055468270" seo="true" ref=")">
-      <caption webpage=")" alt=""/>
-    </file>
-    <file name="4.png" crc="3975264446" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
     <file name="portrait1.png" crc="3975949382" seo="true" ref=")">
@@ -1521,13 +1524,16 @@
     <file name="portrait1_2x.png" crc="3775455247" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
-    <file name="一些想做帥妹子的發想-6.png" crc="4255144794" seo="true" ref=")">
-      <caption webpage=")" alt=""/>
-    </file>
-    <file name="一些想做帥妹子的發想-6_2x.png" crc="386421052" seo="true" ref=")">
+    <file name="4.png" crc="3975264446" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
     <file name="5.png" crc="140809481" seo="true" ref=")">
+      <caption webpage=")" alt=""/>
+    </file>
+    <file name="一些想做帥妹子的發想-6.png" crc="312802895" seo="true" ref=")">
+      <caption webpage=")" alt=""/>
+    </file>
+    <file name="一些想做帥妹子的發想-6_2x.png" crc="46712424" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
     <file name="螢幕擷取畫面 2023-07-23 142523.jpg" crc="3892510004" seo="true" ref=")">
@@ -1558,12 +1564,6 @@
       <caption webpage=")" alt=""/>
     </file>
     <file name="螢幕擷取畫面 2023-11-05 231647_2x.jpg" crc="4229048298" seo="true" ref=")">
-      <caption webpage=")" alt=""/>
-    </file>
-    <file name="portrait2.png" crc="4273250320" seo="true" ref=")">
-      <caption webpage=")" alt=""/>
-    </file>
-    <file name="portrait2_2x.png" crc="4102017510" seo="true" ref=")">
       <caption webpage=")" alt=""/>
     </file>
     <file name="u52470-4.png" crc="3793915419" ref="class-exhibition"/>
@@ -1988,7 +1988,7 @@
   <file name="go-out.html" crc="242536105" seo="true" mt="1680944921155" redirect="true"/>
   <file name="comics2.html" crc="3974225055" seo="true" mt="1698981447092" redirect="true"/>
   <file name="comics.html" crc="3952047836" seo="true" mt="1698981447053" redirect="true"/>
-  <file name=").html" crc="3848723682" seo="true" mt="1699254125933" redirect="true"/>
+  <file name=").html" crc="4251907818" seo="true" mt="1699255084997" redirect="true"/>
   <file name="class-exhibition.html" crc="273182819" seo="true" mt="1699251222649" redirect="true"/>
   <file name="cloth.html" crc="331222157" seo="true" mt="1699249302452" redirect="true"/>
   <file name="school-anniversary.html" crc="3818847258" seo="true" mt="1698981489081" redirect="true"/>

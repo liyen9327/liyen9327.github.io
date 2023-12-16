@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://liyen.com/index.html</loc>
-    <lastmod>2023-11-10</lastmod>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,46 +47,10 @@
     <image:image>
       <image:loc>http://liyen.com/images/1-crop-u52656_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://liyen.com/animation.html</loc>
-    <lastmod>2023-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/poster1-crop-u50525.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/poster1-crop-u50525_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/8-crop-u52473.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/8-crop-u52473_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/0641-crop-u50550.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/0641-crop-u50550_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://liyen.com/rerun.html</loc>
-    <lastmod>2023-11-10</lastmod>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -229,170 +193,206 @@
     </image:image>
   </url>
   <url>
-    <loc>http://liyen.com/school-anniversary.html</loc>
-    <lastmod>2023-11-03</lastmod>
+    <loc>http://liyen.com/nft.html</loc>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-07-23%20233402.jpg</image:loc>
+      <image:loc>http://liyen.com/images/dog4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/0001%202.jpg</image:loc>
+      <image:loc>http://liyen.com/images/dog4_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/0001%202_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/dog2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/%E7%89%88%E6%9C%AC1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
+      <image:loc>http://liyen.com/images/dog2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/%E7%89%88%E6%9C%AC1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/dog3-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/dog3-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/32.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/3_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/astronaut7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/astronaut7_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/witch.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/witch_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/02_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/spacebuddy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/spacebuddy_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/10_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/cartondog.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/cartondog_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/02_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/02_adobecreativecloudexpress_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/05_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/05_adobecreativecloudexpress_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/06_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/06_adobecreativecloudexpress_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/01_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/01_adobecreativecloudexpress_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/07_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/07_adobecreativecloudexpress_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/03_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/03_adobecreativecloudexpress_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/04_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/04_adobecreativecloudexpress_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/09_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/09_adobecreativecloudexpress_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/08_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/08_adobecreativecloudexpress_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/10_adobecreativecloudexpress.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/10_adobecreativecloudexpress_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://liyen.com/illustration.html</loc>
-    <lastmod>2023-12-07</lastmod>
+    <loc>http://liyen.com/dome.html</loc>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
+      <image:loc>http://liyen.com/images/12.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/foxprincess.jpg</image:loc>
+      <image:loc>http://liyen.com/images/1_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/foxprincess_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/portrait2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/girlfight1.jpg</image:loc>
+      <image:loc>http://liyen.com/images/portrait2_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/girlfight1_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E4%B8%80%E4%BA%9B%E6%83%B3%E5%81%9A%E5%B8%A5%E5%A6%B9%E5%AD%90%E7%9A%84%E7%99%BC%E6%83%B3-7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/%E6%98%9F%E7%A9%BA.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E4%B8%80%E4%BA%9B%E6%83%B3%E5%81%9A%E5%B8%A5%E5%A6%B9%E5%AD%90%E7%9A%84%E7%99%BC%E6%83%B3-7_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/%E6%98%9F%E7%A9%BA_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/portrait1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/liongirl736x442.jpg</image:loc>
+      <image:loc>http://liyen.com/images/portrait1_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/liongirl736x442_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/4.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/s__182501381.jpg</image:loc>
+      <image:loc>http://liyen.com/images/5.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/untitled_artwork.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E4%B8%80%E4%BA%9B%E6%83%B3%E5%81%9A%E5%B8%A5%E5%A6%B9%E5%AD%90%E7%9A%84%E7%99%BC%E6%83%B3-6.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/untitled_artwork_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E4%B8%80%E4%BA%9B%E6%83%B3%E5%81%9A%E5%B8%A5%E5%A6%B9%E5%AD%90%E7%9A%84%E7%99%BC%E6%83%B3-6_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/%E6%91%A9%E6%89%98%E8%BB%8A%E9%9B%A2%E5%B3%B6.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-07-23%20142523.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/%E6%91%A9%E6%89%98%E8%BB%8A%E9%9B%A2%E5%B3%B6_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-07-23%20142523_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/untitled_artwork2.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-05%20231743.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/untitled_artwork_2x2.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-05%20231743_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/untitled_artwork%201.jpg</image:loc>
+      <image:loc>http://liyen.com/images/8.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/untitled_artwork%201_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/8_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/summerday2.jpg</image:loc>
+      <image:loc>http://liyen.com/images/6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/summerday2_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/6_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/apartment1784x784.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-05%20231647.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/apartment1784x784_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/heedo2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/heedo2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/outfit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/outfit_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/highschoolgirl2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/highschoolgirl2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/ourbelovedsummer.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/ourbelovedsummer_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/highschoolwitch.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/highschoolwitch_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/untitled_artwork3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/untitled_artwork_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/dity1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/dity1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/thehotchick2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/thehotchick2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%90%AC%E7%A7%80%E6%B4%97%E8%A1%A3%E5%BA%97.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%90%AC%E7%A7%80%E6%B4%97%E8%A1%A3%E5%BA%97_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/tiger1.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://liyen.com/1.html</loc>
-    <lastmod>2022-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://liyen.com/images/liongirl.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/liongirl_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-05%20231647_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://liyen.com/outside-the-room.html</loc>
-    <lastmod>2023-11-10</lastmod>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -817,52 +817,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://liyen.com/2.html</loc>
-    <lastmod>2021-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://liyen.com/character.html</loc>
-    <lastmod>2023-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://liyen.com/images/thehotchick2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/thehotchick2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%90%AC%E7%A7%80%E6%B4%97%E8%A1%A3%E5%BA%97.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%90%AC%E7%A7%80%E6%B4%97%E8%A1%A3%E5%BA%97_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E6%83%B3%E8%A6%8B%E4%BD%A0.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E6%83%B3%E8%A6%8B%E4%BD%A0_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/strangerthings1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/strangerthings1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/marrigestory.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/marrigestory_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://liyen.com/workshop.html</loc>
-    <lastmod>2023-11-10</lastmod>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/%E4%BD%9C%E5%93%81%E6%95%B4%E7%90%86_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
     </image:image>
@@ -913,40 +874,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://liyen.com/drawing.html</loc>
-    <lastmod>2023-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/apartment1-crop-u12282.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/apartment1-crop-u12282_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/v2_p1_eng-crop-u50399.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/v2_p1_eng-crop-u50399_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://liyen.com/designs.html</loc>
-    <lastmod>2023-11-10</lastmod>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/38d13f7c-f25a-4930-9f48-5458dc1eed34_2x.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/line_album_portfolio_230724-crop-u51631.jpg</image:loc>
     </image:image>
@@ -1027,8 +958,32 @@
     </image:image>
   </url>
   <url>
+    <loc>http://liyen.com/animation.html</loc>
+    <lastmod>2023-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/poster1-crop-u50525.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/poster1-crop-u50525_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/8-crop-u52473.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/8-crop-u52473_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/0641-crop-u50550.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/0641-crop-u50550_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://liyen.com/cloth.html</loc>
-    <lastmod>2023-11-10</lastmod>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1051,57 +1006,33 @@
     </image:image>
   </url>
   <url>
-    <loc>http://liyen.com/posters.html</loc>
-    <lastmod>2023-11-06</lastmod>
+    <loc>http://liyen.com/school-anniversary.html</loc>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://liyen.com/images/1240x339.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-07-23%20233402.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/1240x339_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/0001%202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/poster_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%2012.jpg</image:loc>
+      <image:loc>http://liyen.com/images/0001%202_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/poster_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x2.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E7%89%88%E6%9C%AC1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/%E4%BA%BA%E9%AB%94%E8%88%9E%E5%8B%95%E7%A8%BF.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E4%BA%BA%E9%AB%94%E8%88%9E%E5%8B%95%E7%A8%BF_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/lilychen_s3961327_poster_weboutput.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/lilychen_s3961327_poster_weboutput_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/23.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/2_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/6_%E7%85%A7%E7%89%87%E4%BA%82%E6%8E%923.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/6_%E7%85%A7%E7%89%87%E4%BA%82%E6%8E%923_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E7%89%88%E6%9C%AC1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://liyen.com/comics1.html</loc>
-    <lastmod>2023-11-10</lastmod>
+    <loc>http://liyen.com/drawing.html</loc>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://liyen.com/images/v2_p1_eng828x1024.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/v2_p1_eng828x1024_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/v2_p2_eng.jpg</image:loc>
@@ -1110,149 +1041,122 @@
       <image:loc>http://liyen.com/images/v2_p2_eng_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://liyen.com/images/v2_p1_eng363x450.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/v2_p1_eng363x450_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://liyen.com/images/v2_p3_eng.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/v2_p3_eng_2x.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://liyen.com/nft.html</loc>
-    <lastmod>2023-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://liyen.com/images/dog4.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E6%91%A9%E6%89%98%E8%BB%8A%E9%9B%A2%E5%B3%B6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/dog4_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/%E6%91%A9%E6%89%98%E8%BB%8A%E9%9B%A2%E5%B3%B6_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/dog2.jpg</image:loc>
+      <image:loc>http://liyen.com/images/apartment1430x430.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/dog2_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/apartment1430x430_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/dog3-2.jpg</image:loc>
+      <image:loc>http://liyen.com/images/summerday2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/dog3-2_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/summerday2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/32.jpg</image:loc>
+      <image:loc>http://liyen.com/images/untitled_artwork%201.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/3_2x2.jpg</image:loc>
+      <image:loc>http://liyen.com/images/untitled_artwork%201_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/astronaut7.jpg</image:loc>
+      <image:loc>http://liyen.com/images/untitled_artwork.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/astronaut7_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/untitled_artwork_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/witch.jpg</image:loc>
+      <image:loc>http://liyen.com/images/highschoolwitch.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/witch_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/highschoolwitch_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/02.jpg</image:loc>
+      <image:loc>http://liyen.com/images/highschoolgirl2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/02_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/highschoolgirl2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/spacebuddy.jpg</image:loc>
+      <image:loc>http://liyen.com/images/ourbelovedsummer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/spacebuddy_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/ourbelovedsummer_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/102.jpg</image:loc>
+      <image:loc>http://liyen.com/images/untitled_artwork2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/10_2x2.jpg</image:loc>
+      <image:loc>http://liyen.com/images/untitled_artwork_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/cartondog.jpg</image:loc>
+      <image:loc>http://liyen.com/images/tiger1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/cartondog_2x.jpg</image:loc>
+      <image:loc>http://liyen.com/images/liongirl.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/02_adobecreativecloudexpress.gif</image:loc>
+      <image:loc>http://liyen.com/images/liongirl_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/02_adobecreativecloudexpress_2x.gif</image:loc>
+      <image:loc>http://liyen.com/images/%E6%98%9F%E7%A9%BA.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/05_adobecreativecloudexpress.gif</image:loc>
+      <image:loc>http://liyen.com/images/%E6%98%9F%E7%A9%BA_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/05_adobecreativecloudexpress_2x.gif</image:loc>
+      <image:loc>http://liyen.com/images/foxprincess.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/06_adobecreativecloudexpress.gif</image:loc>
+      <image:loc>http://liyen.com/images/foxprincess_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/06_adobecreativecloudexpress_2x.gif</image:loc>
+      <image:loc>http://liyen.com/images/heedo2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/01_adobecreativecloudexpress.gif</image:loc>
+      <image:loc>http://liyen.com/images/heedo2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/01_adobecreativecloudexpress_2x.gif</image:loc>
+      <image:loc>http://liyen.com/images/thehotchick2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/07_adobecreativecloudexpress.gif</image:loc>
+      <image:loc>http://liyen.com/images/thehotchick2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/07_adobecreativecloudexpress_2x.gif</image:loc>
+      <image:loc>http://liyen.com/images/img_5618.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/03_adobecreativecloudexpress.gif</image:loc>
+      <image:loc>http://liyen.com/images/img_5618_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/03_adobecreativecloudexpress_2x.gif</image:loc>
+      <image:loc>http://liyen.com/images/img_5619.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/04_adobecreativecloudexpress.gif</image:loc>
+      <image:loc>http://liyen.com/images/img_5619_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/04_adobecreativecloudexpress_2x.gif</image:loc>
+      <image:loc>http://liyen.com/images/img_5620.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liyen.com/images/09_adobecreativecloudexpress.gif</image:loc>
+      <image:loc>http://liyen.com/images/img_5620_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/09_adobecreativecloudexpress_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/08_adobecreativecloudexpress.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/08_adobecreativecloudexpress_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/10_adobecreativecloudexpress.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/10_adobecreativecloudexpress_2x.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://liyen.com/go-out.html</loc>
-    <lastmod>2023-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://liyen.com/comics2.html</loc>
-    <lastmod>2023-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://liyen.com/images/sequential%20project%20_%20final5.jpg</image:loc>
     </image:image>
@@ -1261,98 +1165,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://liyen.com/comics.html</loc>
-    <lastmod>2023-12-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://liyen.com/images/v2_p1_eng-crop-u50463.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/v2_p1_eng-crop-u50463_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/sequential%20project%20_%20final5-crop-u50482.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/sequential%20project%20_%20final5-crop-u50482_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://liyen.com/dome.html</loc>
-    <lastmod>2023-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://liyen.com/images/12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/1_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/portrait2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/portrait2_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E4%B8%80%E4%BA%9B%E6%83%B3%E5%81%9A%E5%B8%A5%E5%A6%B9%E5%AD%90%E7%9A%84%E7%99%BC%E6%83%B3-7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E4%B8%80%E4%BA%9B%E6%83%B3%E5%81%9A%E5%B8%A5%E5%A6%B9%E5%AD%90%E7%9A%84%E7%99%BC%E6%83%B3-7_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/portrait1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/portrait1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E4%B8%80%E4%BA%9B%E6%83%B3%E5%81%9A%E5%B8%A5%E5%A6%B9%E5%AD%90%E7%9A%84%E7%99%BC%E6%83%B3-6.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E4%B8%80%E4%BA%9B%E6%83%B3%E5%81%9A%E5%B8%A5%E5%A6%B9%E5%AD%90%E7%9A%84%E7%99%BC%E6%83%B3-6_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-07-23%20142523.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-07-23%20142523_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-05%20231743.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-05%20231743_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/8.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/8_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/6_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-05%20231647.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liyen.com/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-05%20231647_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://liyen.com/class-exhibition.html</loc>
-    <lastmod>2023-11-10</lastmod>
+    <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1414,6 +1228,60 @@
     </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/15_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://liyen.com/posters.html</loc>
+    <lastmod>2023-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/1240x339.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/1240x339_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/poster_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%2012.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/poster_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E4%BA%BA%E9%AB%94%E8%88%9E%E5%8B%95%E7%A8%BF.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/%E4%BA%BA%E9%AB%94%E8%88%9E%E5%8B%95%E7%A8%BF_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/lilychen_s3961327_poster_weboutput.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/lilychen_s3961327_poster_weboutput_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/2_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/6_%E7%85%A7%E7%89%87%E4%BA%82%E6%8E%923.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/6_%E7%85%A7%E7%89%87%E4%BA%82%E6%8E%923_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://liyen.com/contact.html</loc>
+    <lastmod>2023-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/s__182460425.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liyen.com/images/s__182460425_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>

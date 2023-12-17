@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://liyen.com/index.html</loc>
-    <lastmod>2023-12-16</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>http://liyen.com/rerun.html</loc>
-    <lastmod>2023-12-16</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -320,7 +320,7 @@
   </url>
   <url>
     <loc>http://liyen.com/dome.html</loc>
-    <lastmod>2023-12-16</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1031,9 +1031,6 @@
     <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/v2_p2_eng.jpg</image:loc>
     </image:image>

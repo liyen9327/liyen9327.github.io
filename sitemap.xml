@@ -1271,9 +1271,12 @@
   </url>
   <url>
     <loc>http://liyen.com/contact.html</loc>
-    <lastmod>2023-12-16</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://liyen.com/images/lily%20chen377x83.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://liyen.com/images/s__182460425.jpg</image:loc>
     </image:image>
